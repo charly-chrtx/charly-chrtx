@@ -1,9 +1,16 @@
-<h1 align="center">Hi there 👋!</h1>
-<div align="center">
- 
-  <a href="https://twitch.tv/charly_chrtx" target="_blank"><img src="https://img.shields.io/badge/Twitch-@charly_chrtx-purple?style=for-the-badge&logo=twitch" alt="Twitch" /></a>
-  <br/>
-<p align="center"></p>
-<h2 align="center">My statistics:</h2>
-<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=charly-chrtx&theme=material-palenight&show_icons=true"></p></a>
-<a href="#"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charly-chrtx&layout=compact&theme=material-palenight"></p></a>
+# hey, i'm Charly
+
+18, student, based in France. i've been building stuff since i was a kid and i'm still learning every day.
+
+## what i'm working on
+
+i handle the software side of **MaestroAI** with my friend [Ethan](https://github.com/7474N0U), who does all the design by hand.
+
+- [**Opera**](https://github.com/MaestroAI-Company/opera): a private AI assistant that runs on your own device (Android, Windows, macOS, Linux), no server, no tracking
+- [**Sampler Hub**](https://github.com/MaestroAI-Company/sampler-hub): a self-hosted hub in Rust that syncs your Opera devices and shares local models, end-to-end encrypted
+
+## find me
+
+- [maestroai.company](https://maestroai.company)
+
+  
